@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+## 鄂A0260W 请归还口罩
 
-You can use the [editor on GitHub](https://github.com/a0260w/a0260w.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/a0260w/a0260w.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+2月1日下午2:30左右，武汉市红十字会借用的武汉市国际博览中心临时仓库外，一名男子从国博中心提出一箱3M口罩，放入一辆车牌为鄂A0260W汽车后备箱，司机称，领取的物资是给领导配的。记者多次追问男子及司机所在单位，司机拒绝回答，男子则径直进入临时仓库。记者多方核实，鄂A0260W系武汉市政府办公厅公务用车。记者拨打了车门上所喷的公务用车监督电话，一直无人接听。
